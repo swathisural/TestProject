@@ -7,7 +7,7 @@ public class HelloTest {
     @Test
     void shouldBeAbleToSayHelloWorld() {
 
-        Hello hello=new Hello();
+        Hello hello = new Hello();
 
         assertTrue(hello.sayHello());
     }
